@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG = Path.home() / ".codex" / "config.toml"
 OUTPUT = ROOT / "outputs" / "index.html"
 START_DATE = "20160613"
-END_DATE = "20260714"
+END_DATE = "20261013"
 STOCKS = [
     {"code": "601899.SH", "name": "紫金矿业"},
     {"code": "600036.SH", "name": "招商银行"},
