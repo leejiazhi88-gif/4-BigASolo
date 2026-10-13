@@ -6,7 +6,7 @@
 
 GitHub Pages:
 
-https://leejiazhi88-gif.github.io/BigASolo/
+https://leejiazhi88-gif.github.io/4-BigASolo/
 
 发布分支为 `gh-pages`，页面入口为仓库根目录的 `index.html`。
 
@@ -22,7 +22,7 @@ git push origin main:gh-pages
 换电脑后，克隆仓库即可继续维护：
 
 ```bash
-git clone git@github.com:leejiazhi88-gif/BigASolo.git
+git clone git@github.com:leejiazhi88-gif/4-BigASolo.git
 ```
 
 ## 重新生成页面
